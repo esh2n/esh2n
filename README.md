@@ -73,6 +73,10 @@
 
 ---
 
+<img align='left' alt='github stats' src='https://github-readme-stats.vercel.app/api?username=shunyaendoh1215&show_icons=true&hide_border=true'/>
+
+<img align='left' alt='github stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=shunyaendoh1215&layout=compact&show_icons=true&hide_border=true'/>
+
 [website]: https://www.shunya.ninja/
 [twitter]: https://twitter.com/da_s1215
 [mail]: shunnyaendoh.bz@gmail.com
