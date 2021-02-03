@@ -1,5 +1,8 @@
 ### 👨 shunya endo (@esh2n)
 
+[![Website](https://img.shields.io/badge/esh2n.com-up-sccess?style=for-the-badge)](https://www.esh2n.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/esh2n?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/esh2n)
+
 Software Engineer in Tokyo.
 
 #### 💻 Skills
