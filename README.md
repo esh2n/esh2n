@@ -44,12 +44,8 @@
 	</tr>
   </tbody>
 </table>
-<!-- #### ⚽️ Hobbies
 
-- Game
-- Break Dancing -->
-
-#### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 
 - [Deno + GraphQL + PostgreSQL で JWT を作ろうとして失敗した話](https://www.esh2n.com/posts/deno-tutorial.html)
 - [【Flutter】FCM でプッシュ通知を送る際の OS 毎の注意点](https://www.esh2n.com/posts/fcm.html)
