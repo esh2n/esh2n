@@ -39,7 +39,7 @@
       <td align="center"><img alt="DDD" src="https://img.shields.io/badge/-DDD-000000?style=flat-square&logo=DDD&logoColor=white" /></td>
 	</tr>
       <td align="center"><img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></td>
-      <td align="center"><img alt="webcomponents.org" src="https://img.shields.io/badge/-Web Components-29ABE2?style=flat-square&logo=webcomponents.org&logoColor=white" /></td>
+      <td align="center"><img alt="webcomponents.org" src="https://img.shields.io/badge/-Web Components-29ABE2?style=flat-square&logo=webcomponents.org&logoColor=white" /> <img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat-square&logo=Lit&logoColor=white" /></td>
       <td align="center"></td>
 	</tr>
   </tbody>
