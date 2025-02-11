@@ -19,11 +19,11 @@
 ### 🧝‍♂ I'm a Developer with Diverse Interests
 
 - 🔭 Currently working on:
-  - Blockchain-related projects
-  - SaaS backend development
+  - SaaS development
 - 💼 Previously experienced in:
   - Web frontend development
   - Mobile app development
+  - Blockchain-related app development
 - 🎨 Passionate about clean and beautiful UI design
 - 🌱 Always exploring new technologies, with a wide range of interests
 - 👯 Looking to collaborate with other passionate developers
