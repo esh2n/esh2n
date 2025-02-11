@@ -23,6 +23,7 @@
 - 💼 Previously experienced in:
   - Web frontend development
   - Mobile app development
+  - Web backend development
   - Blockchain-related app development
 - 🎨 Passionate about clean and beautiful UI design
 - 🌱 Always exploring new technologies, with a wide range of interests
